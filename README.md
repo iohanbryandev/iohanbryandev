@@ -39,7 +39,7 @@ Acredito em código limpo, automação de processos e na entrega de valor real a
 
 ## 🌐 Conecte-se Comigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/iohan-bryan/" target="_blank">
+  <a href="https://www.linkedin.com/in/iohanbryan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:iohanbryan1@gmail.com" target="_blank">
