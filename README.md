@@ -1,12 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b4d8&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+Iohan+Bryan;Estudante+de+Programação;Focado+em+Lógica+e+C" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00b4d8&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+Iohan+Bryan;Estudante+de+Programação;Focado+em+Lógica,+C+e+Java" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Aprendendo-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Lógica%20de%20Programação-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-C%20%7C%20Java-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Origin-Brazil-yellow?style=for-the-badge" />
 </p>
 
@@ -15,7 +16,7 @@
 ## 🚀 Sobre Mim
 
 Me chamo **Iohan Bryan** e estou iniciando minha jornada na programação.  
-Atualmente estou focado em aprender **lógica de programação utilizando a linguagem C**, desenvolvendo exercícios práticos para fortalecer minha base.
+Atualmente estou focado em aprender **lógica de programação utilizando C e Java**, desenvolvendo exercícios práticos para fortalecer minha base.
 
 Busco evoluir constantemente e construir uma base sólida para me tornar um desenvolvedor no futuro.
 
@@ -25,7 +26,7 @@ Busco evoluir constantemente e construir uma base sólida para me tornar um dese
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=c,java" />
   </a>
 </p>
 
@@ -35,7 +36,8 @@ Busco evoluir constantemente e construir uma base sólida para me tornar um dese
 
 - Variáveis  
 - Condições (`if / else`)  
-- Estruturas de repetição (`while`)  
+- Estruturas de repetição (`while`, `for`)  
+- Lógica com Java  
 - Exercícios práticos  
 
 ---
@@ -53,8 +55,6 @@ Busco evoluir constantemente e construir uma base sólida para me tornar um dese
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-  
-
 
 ---
 
