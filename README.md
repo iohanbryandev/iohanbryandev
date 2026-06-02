@@ -1,50 +1,90 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Iohan%20Bryan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20em%20Construção%20🚀&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00b4d8&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+Iohan+Bryan;Estudante+de+Programação;Focado+em+Lógica,+C+e+Java" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Aprendendo-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Lógica%20de%20Programação-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-C%20%7C%20Java-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Origin-Brazil-yellow?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Iohan+Bryan!+👋;Estudante+de+Programação;Apaixonado+por+Lógica+e+Code;Construindo+minha+base+em+C+e+Java" />
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Me chamo **Iohan Bryan** e estou iniciando minha jornada na programação.  
-Atualmente estou focado em aprender **lógica de programação utilizando C e Java**, desenvolvendo exercícios práticos para fortalecer minha base.
+```java
+public class IohanBryan extends Developer {
 
-Busco evoluir constantemente e construir uma base sólida para me tornar um desenvolvedor no futuro.
+    private final String name     = "Iohan Bryan";
+    private final String location = "Brasil 🇧🇷";
+    private final String status   = "Estudante de Programação";
+
+    private final String[] currentlyLearning = { "Lógica de Programação", "C", "Java" };
+    private final String[] nextSteps         = { "Spring Boot", "SQL", "APIs REST" };
+
+    private final String goal     = "Construir soluções reais e me tornar um dev completo";
+    private final String mindset  = "Todo dia um commit melhor que o anterior";
+
+    public String toString() {
+        return "Focado, consistente e em constante evolução 🚀";
+    }
+
+}
+```
 
 ---
 
-## 🧰 Tecnologias em aprendizado
+## 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java" />
-  </a>
+<p align="center">
+
+**Atualmente aprendendo:**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,java&theme=dark" />
+</a>
+
+</p>
+
+<p align="center">
+
+**No radar (próximos passos):**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,github,azure&theme=dark" />
+</a>
+
 </p>
 
 ---
 
-## 📚 O que estou estudando
+## 📚 Minha Jornada de Aprendizado
 
-- Variáveis  
-- Condições (`if / else`)  
-- Estruturas de repetição (`while`, `for`)  
-- Lógica com Java  
-- Exercícios práticos  
+```
+✅  Variáveis e Tipos de Dados
+✅  Condicionais (if / else / switch)
+✅  Estruturas de Repetição (while / for / do-while)
+🔄  Funções e Modularização
+🔄  Orientação a Objetos com Java
+⏳  Estruturas de Dados
+⏳  Projetos Práticos
+```
 
 ---
 
-## 🌐 Contato
+## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iohanbryandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iohanbryandev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iohanbryandev&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
+</p>
+
+---
+
+## 🌐 Me encontre por aqui
+
+<p align="center">
   <a href="https://github.com/iohanbryandev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -59,7 +99,11 @@ Busco evoluir constantemente e construir uma base sólida para me tornar um dese
 ---
 
 <p align="center">
-  <i>"Evoluindo um pouco todos os dias."</i> 🚀
+  <img src="https://komarev.com/ghpvc/?username=iohanbryandev&label=Visitas+no+Perfil&color=00b4d8&style=for-the-badge" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer"/>
+<p align="center">
+  <i>"A jornada de mil milhas começa com um único passo."</i> 🚀
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
