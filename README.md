@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=800&color=00B4D8&center=true&vCenter=true&width=750&lines=Iohan+Bryan+%7C+Dev+Back-End;Transformando+café+em+código+☕;De+zero+a+dev+%E2%80%94+um+commit+por+vez;C+%2B+Java+%3D+Base+sólida%2C+futuro+grande;Bugs+hoje%2C+features+amanhã+🔧;O+próximo+nível+começa+aqui+🚀" />
 </p>
 
+---
+
 ## 👨‍💻 Sobre Mim
 
 ```java
@@ -16,8 +18,8 @@ public class IohanBryan extends Developer {
     private final String[] currentlyLearning = { "Lógica de Programação", "C", "Java" };
     private final String[] nextSteps         = { "Spring Boot", "SQL", "APIs REST" };
 
-    private final String goal     = "Construir soluções reais e me tornar um dev completo";
-    private final String mindset  = "Todo dia um commit melhor que o anterior";
+    private final String goal    = "Construir soluções reais e me tornar um dev completo";
+    private final String mindset = "Todo dia um commit melhor que o anterior";
 
     public String toString() {
         return "Focado, consistente e em constante evolução 🚀";
@@ -31,23 +33,21 @@ public class IohanBryan extends Developer {
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-
-**Atualmente aprendendo:**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java&theme=dark" />
-</a>
-
+  <strong>Atualmente aprendendo</strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java&theme=dark" />
+  </a>
 </p>
 
 <p align="center">
-
-**No radar (próximos passos):**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,github,azure&theme=dark" />
-</a>
-
+  <strong>No radar — próximos passos</strong>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,github,azure&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -67,12 +67,6 @@ public class IohanBryan extends Developer {
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iohanbryandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iohanbryandev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=iohanbryandev&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
