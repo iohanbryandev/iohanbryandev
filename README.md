@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Iohan%20Bryan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20em%20Construção%20🚀&descAlignY=55&descSize=18"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=800&color=00B4D8&center=true&vCenter=true&width=750&lines=Iohan+Bryan+%7C+Dev+Back-End;Transformando+café+em+código+☕;De+zero+a+dev+%E2%80%94+um+commit+por+vez;C+%2B+Java+%3D+Base+sólida%2C+futuro+grande;Bugs+hoje%2C+features+amanhã+🔧;O+próximo+nível+começa+aqui+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=26&pause=800&color=00B4D8&center=true&vCenter=true&width=750&lines=Iohan+Bryan+%7C+Dev+Back-End;Transformando+café+em+código+☕;De+zero+a+dev+%E2%80%94+um+commit+por+vez;Java+%3D+Base+sólida%2C+futuro+grande;Bugs+hoje%2C+features+amanhã+🔧;O+próximo+nível+começa+aqui+🚀" />
 </p>
 
 ---
