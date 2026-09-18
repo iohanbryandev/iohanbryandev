@@ -63,30 +63,6 @@ public class IohanBryan extends Developer {
 
 ---
 
-## 📚 Minha Jornada de Aprendizado
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    🗺️  ROADMAP DO IOHAN                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  ✅  Variáveis e Tipos de Dados          [████████████] 100%     ║
-║  ✅  Condicionais (if / else / switch)   [████████████] 100%     ║
-║  ✅  Estruturas de Repetição (loops)     [████████████] 100%     ║
-║  🔄  Funções e Modularização             [████████░░░░]  70%     ║
-║  🔄  Orientação a Objetos com Java       [█████░░░░░░░]  45%     ║
-║  ⏳  Estruturas de Dados                 [██░░░░░░░░░░]  15%     ║
-║  ⏳  Projetos Práticos do Mundo Real     [░░░░░░░░░░░░]   0%     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
